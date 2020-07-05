@@ -1,0 +1,26 @@
+.Menustyle{
+    height: 100px;
+    width: 100;
+    background-color:#192841;
+}
+.Menustyle ul{
+    display: flex;
+    height: 100px;
+    justify-content: space-around;
+    align-items: center;
+}
+.Menustyle ul li{
+    text-transform: uppercase;
+    list-style: none;
+    color: white;
+    
+}
+.Menustyle ul li a{
+    text-decoration: none;
+}
+.Menustyle ul li a:hover{
+    color: white;
+}
+.abc .pagination{
+    justify-content: center;
+}

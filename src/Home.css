@@ -1,0 +1,15 @@
+.mystyle{
+  
+  top: -100px;
+}
+.container {
+ 
+  text-align: center;
+  
+}
+.centered {
+
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
